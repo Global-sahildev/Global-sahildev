@@ -10,17 +10,12 @@ I'm a **backend developer** with expertise in **Node.js, Angular, and MongoDB**.
 
 🔧 **Tech Stack**
 - **Backend:** Node.js, Express.js
-- **Frontend:** Angular, JavaScript, Tailwind CSS
-- **Database:** MongoDB, SQL
+- **Frontend:** Angular, JavaScript, Tailwind CSS,ReactJs
+- **Database:** MongoDB, SQL ,DynamoDb
 - **Tools & DevOps:** VS Code, Git, GitHub, Postman
-
-🛠 **Projects & Contributions**
-- 🌐 Redesigned **Nicco Cables Official Website**
-- 🔥 Developed an AI-powered **E-Waste Management System**
-- ⚡ Built multiple **CMS solutions** with WordPress & Shopify
 
 📫 **Let's Connect!**
 - **GitHub:** [Global-sahildev](https://github.com/Global-sahildev)
-- **LinkedIn:** [Your Profile](#) *(Add your LinkedIn link)*
+- **LinkedIn:** [sahil-devcodes](https://www.linkedin.com/in/sahil-devcodes/)
 
 ✨ Always learning, coding, and building something cool! Let's collaborate and innovate. 🚀
